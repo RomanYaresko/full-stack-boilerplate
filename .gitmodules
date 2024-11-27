@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:RomanYaresko/react-boilerplate.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:RomanYaresko/drf-boilerplate.git
